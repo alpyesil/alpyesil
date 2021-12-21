@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alp</h1>
+<h1 align="center">Hi 👋, I'm Alp Yeşil</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
 -  I’m currently learning **NodeJS, ReactJS, VueJS, .NET Core Mvc**
