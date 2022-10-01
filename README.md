@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alp Yeşil</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
--  I’m currently learning **ReactJS, .NET Core Mvc**
+-  I’m currently learning **Flutter, .NET **
 
 -  How to reach me <a href="https://www.linkedin.com/in/alpysl/">here</a>
 
