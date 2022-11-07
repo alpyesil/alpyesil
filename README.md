@@ -7,11 +7,7 @@
 
 -  Know about my experiences <a href="https://www.linkedin.com/in/alpysl/">here</a>
 
-
-<a href="resume/alp-CV.pdf">
-  <img src="img/41.png" alt="JS" width="140" >
-</a>
-</p>
+- CV <a href="resume/alpyesil.pdf">here</a>
 
 
 
