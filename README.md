@@ -7,7 +7,7 @@
 
 -  Know about my experiences <a href="https://www.linkedin.com/in/alpysl/">here</a>
 
-- CV <a href="resume/alpyesil.pdf">here</a>
+- CV <a href="alpyesil.pdf">here</a>
 
 
 
