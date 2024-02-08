@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alp Yeşil</h1>
-<h3 align="center">A passionate .Net Developer from Turkey</h3>
+<h3 align="center">A passionate Game Developer from Turkey</h3>
 
 -  I’m currently learning **.NET Core and Unity **
 
