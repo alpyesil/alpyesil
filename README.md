@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alp Yeşil</h1>
-<h3 align="center">Frontend Lead at <a href="https://extranet.rbmode.com/">R&amp;B Mode</a> · Full-Stack &amp; Game Developer from Turkey</h3>
+<h3 align="center">Frontend Lead at <a href="https://rbmode.com/">R&amp;B Mode</a> · Full-Stack &amp; Game Developer from Turkey</h3>
 
 <p align="center">
   <a href="https://alpysl.dev">🌐 alpysl.dev</a> ·
@@ -9,7 +9,7 @@
 
 ## 💼 Experience
 
-### Frontend Developer & React Lead · [R&B Mode](https://extranet.rbmode.com/)
+### Frontend Developer & React Lead · [R&B Mode](https://rbmode.com/)
 *June 2022 – Present · Istanbul*
 
 Leading the frontend of an enterprise textile management system used by 200+ people every day.
