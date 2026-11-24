@@ -59,12 +59,6 @@ Disposable-email blocking, password security policies, code review and debugging
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,nodejs,cs,dotnet,unity,unreal,cpp,threejs,firebase,postgres,mysql,docker,py,cloudflare,git&perline=10" alt="Tech stack" />
 </p>
 
-## 🎓 Education
-
-- **Istanbul University** · Management Information Systems (2023 – 2027)
-- **Anadolu University** · International Business (2021 – 2023)
-- **Eastern Mediterranean University** · Physical Therapy Technician (2017 – 2019)
-
 ## 📫 Connect
 
 <p align="left">
