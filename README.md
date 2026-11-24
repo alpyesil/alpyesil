@@ -7,6 +7,7 @@ Portfolio and CV: [alpysl.dev](https://alpysl.dev)
 ### Work
 
 **R&B Mode**, frontend developer / React lead (2022 - now)
+
 I work on the React frontend of the company's textile management system: large data grids with AG Grid, Excel and PDF reports, a file manager, production dashboards and real-time updates over WebSocket. I also set up how we do code reviews on the frontend.
 
 **Freelance**
